@@ -1,0 +1,23 @@
+{
+    "Shooting": {
+        "checkpoints": [
+            {
+                "steps": 246641,
+                "file_path": "results\\ShooterAI1\\Shooting\\Shooting-246641.nn",
+                "reward": null,
+                "creation_time": 1605359944.4940486
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 246641,
+            "file_path": "results\\ShooterAI1\\Shooting.nn",
+            "reward": null,
+            "creation_time": 1605359944.4940486
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}

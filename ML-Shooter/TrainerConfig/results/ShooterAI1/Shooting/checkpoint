@@ -1,0 +1,2 @@
+model_checkpoint_path: "Shooting-246641.ckpt"
+all_model_checkpoint_paths: "Shooting-246641.ckpt"
